@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card component has the correct Tailwind classes applied 1`] = `
+<div
+  class="flex flex-col gap-4 mt-8 shadow-lg rounded-2xl p-6 bg-white items-center"
+>
+  This is the content inside the card.
+</div>
+`;
