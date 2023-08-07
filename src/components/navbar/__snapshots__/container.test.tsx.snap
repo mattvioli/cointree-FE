@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Container component has the correct Tailwind classes applied 1`] = `
+<div
+  class="w-full max-w-6xl"
+>
+  This is the content inside the container.
+</div>
+`;

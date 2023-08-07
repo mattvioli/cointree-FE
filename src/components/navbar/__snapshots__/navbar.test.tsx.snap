@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar component has the correct Tailwind classes applied 1`] = `
+<div
+  class="flex flex-row justify-center z-10 w-full items-center font-mono text-sm lg:flex bg-white min-h-[3.25rem] shadow-lg"
+  data-testid="navbar"
+>
+  <div
+    class="w-full max-w-6xl"
+  >
+    <img
+      alt="Cointree Logo"
+      class="dark:invert"
+      height="24"
+      src="/cointree.svg"
+      width="100"
+    />
+  </div>
+</div>
+`;
