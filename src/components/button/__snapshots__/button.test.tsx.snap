@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component has the correct Tailwind classes applied 1`] = `
+<button
+  class="rounded-full px-6 bg-black text-white tracking-tight cursor-pointer h-12"
+>
+  Click Me
+</button>
+`;
